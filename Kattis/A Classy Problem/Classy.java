@@ -1,19 +1,52 @@
 import java.util.*;
 import java.io.*;
 
-//https://nus.kattis.com/problems/shatteredcake
-public class Shattered {
+
+public class Classy {
     public static void main(String[] args) {
         FastIO fio = new FastIO();
-        int c_width = fio.nextInt();
-        int numPiece = fio.nextInt();
-        int totalArea = 0;
-        for(int i = 0; i < numPiece; i++) {
-            totalArea += fio.nextInt() * fio.nextInt();
+        PriorityQueue<Person> PQ = new PriorityQueue<>();
+        int numTest = fio.nextInt();
+        int maxLength = 0;
+        for (int i = 0; i < numTest; i++) {
+            int numPeople = fio.nextInt();
+            for (int j = 0; j < numPeople; j++) {
+                String input = fio.nextLine();
+                String[] arr = input.split(": ");
+                String[] s_class = arr[1].split("-");
+                if (maxLength < s_class.length) {
+                    maxLength = s_class.length;
+                }
+                String rank = "";
+                for (int y = s_class.length - 1; y >= 0; y--) {
+                    switch (s_class[y]){
+                        case "middle":
+                            rank += 2;
+                        case "lower":
+                            rank += 1;
+                        case "upper":
+                            rank += 3;
+                    }
+                }
+                fio.println(rank);
+                fio.println(Arrays.toString(arr));
+            }
         }
-
-        fio.println(totalArea/c_width);
         fio.close();
+    }
+}
+
+class Person implements Comparable<Person> {
+    public String name;
+    public int rank;
+
+    public Person(String name, int rank) {
+        this.name = name;
+        this.rank = rank;
+    }
+
+    public int compareTo(Person other) {
+        return -1 * (this.rank - other.rank);
     }
 }
 
@@ -78,7 +111,4 @@ class FastIO extends PrintWriter
         return str; 
     } 
 }
-
-
-
 

@@ -1,18 +1,22 @@
 import java.util.*;
 import java.io.*;
 
-//https://nus.kattis.com/problems/shatteredcake
-public class Shattered {
+//https://nus.kattis.com/sessions/fz8qek/problems/sumkindofproblem
+public class sum {
     public static void main(String[] args) {
         FastIO fio = new FastIO();
-        int c_width = fio.nextInt();
-        int numPiece = fio.nextInt();
-        int totalArea = 0;
-        for(int i = 0; i < numPiece; i++) {
-            totalArea += fio.nextInt() * fio.nextInt();
+        int numTest = fio.nextInt();
+        for( int i = 0; i < numTest; i++) {
+            fio.print(fio.nextInt());
+            fio.print(" ");
+            int numTerms = fio.nextInt();
+            int[] arr = { 1+numTerms, 1+2*numTerms-1, 1+2*numTerms+1 };
+            for (Integer factor : arr) {
+                fio.print(numTerms*(factor)/2);
+                fio.print(" ");
+            }
+            fio.println();
         }
-
-        fio.println(totalArea/c_width);
         fio.close();
     }
 }
@@ -78,6 +82,7 @@ class FastIO extends PrintWriter
         return str; 
     } 
 }
+
 
 
 
