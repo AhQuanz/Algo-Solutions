@@ -26,6 +26,7 @@ Output: false
  * }
  */
 class Univalue {
+    //Recursion solution 
     public boolean isUnivalTree(TreeNode root) {
         return isUnivalTreeRec(root.left, root.val) && isUnivalTreeRec(root.right, root.val);
     }
@@ -35,4 +36,5 @@ class Univalue {
         }
         return val == root.val && isUnivalTreeRec(root.left,root.val) && isUnivalTreeRec(root.right,root.val) ;
     } 
+    //
 }
