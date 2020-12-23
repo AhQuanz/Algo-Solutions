@@ -31,3 +31,4 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/ "Shuffle String") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Sort/ShuffleStr.java)|
+| 1122 | [Relative Sort Array#](https://leetcode.com/problems/relative-sort-array/ "Relative Sort Array#) | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Sort/RelativeSort.java)|
