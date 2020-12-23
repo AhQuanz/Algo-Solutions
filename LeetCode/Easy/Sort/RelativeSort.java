@@ -60,16 +60,15 @@ class RelativeSort{
             freq[i] += 1;
         }
         
-        int[] result = new int[arr1.length];
         int count = 0;
         for (int i : arr2) {
-            Arrays.fill(result,count, freq[i] + count, i);
+            Arrays.fill(arr1,count, freq[i] + count, i);
             count += freq[i];
             freq[i] = 0;
         }
         for (int i = 0; i < freq.length; i++) {
             if(freq[i] != 0) {
-                result[count] = i;
+                arr1[count] = i;
                 count++;
             }
         }
