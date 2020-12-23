@@ -33,3 +33,9 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/ "Shuffle String") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Sort/ShuffleStr.java)|
 | 1122 | [Relative Sort Array#](https://leetcode.com/problems/relative-sort-array/ "Relative Sort Array#") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Sort/RelativeSort.java)|
+
+### Tree 
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/ "Univalued Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/Univalue.java)|
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/ "Maximum Depth of Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/ShortestDIsToC.java)|
