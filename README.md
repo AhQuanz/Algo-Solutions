@@ -13,6 +13,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/ "Decompress Run-Length Encoded List") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/Decompressed.java)|
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/ "Create Target Array in the Given Order") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/OrderedCreateArr.java)|
 | 1619 | [Mean of Array After Removing Some Elements#](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/ "Mean of Array After Removing Some Elements#") | Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/MeanAftRemove.java)|
+| 821  | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/ "Shortest Distance to a Character")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/ShortestDisToC.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
