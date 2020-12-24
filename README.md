@@ -14,6 +14,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/ "Create Target Array in the Given Order") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/OrderedCreateArr.java)|
 | 1619 | [Mean of Array After Removing Some Elements#](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/ "Mean of Array After Removing Some Elements#") | Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/MeanAftRemove.java)|
 | 821  | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/ "Shortest Distance to a Character")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/ShortestDisToC.java)|
+| 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/ "Fibonacci Number")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/Fib.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
