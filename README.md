@@ -39,3 +39,4 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/ "Univalued Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/Univalue.java)|
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/ "Maximum Depth of Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/ShortestDIsToC.java)|
+| 1160| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/ "Find Words That Can Be Formed by Characters")| Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/WordsFromC.java)|
