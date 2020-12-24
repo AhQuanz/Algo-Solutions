@@ -21,6 +21,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/ "Defanging an IP Address") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/DefragIP.java)|
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/ "Goal Parser Interpretation") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/GoalParser.java)|
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/ "Count the Number of Consistent Strings") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/ConsistentStr.java)|
+| 929  | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/ "Unique Email Addresses")| Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/UniqueEAddr.java)|
 
 ### HashTable
 | #  |  Title | Diffcuitly  |  Language  |
