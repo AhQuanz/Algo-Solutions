@@ -26,7 +26,7 @@ def main():
                 pass
 
         command = ["git status","git add -A", "git status", "git commit -m " + commit_str + "\""]
-        check = ["not staged for commit","" ,"Changes to be committed:"]
+        check = ["not staged for commit","" ,"Changes to be committed:", ""]
         prompts = ["Checking if there is any thing to commit", "Added files to commmit", "Ready to commit","Committing", "Pushed to git"]
         print("Executing commands to push to git")
         x = 0
@@ -39,6 +39,7 @@ def main():
             else:
                 print(prompts[x])
             x += 1
+            print(error_code)
         
 
 def readFile():
