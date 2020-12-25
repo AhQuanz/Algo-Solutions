@@ -25,8 +25,8 @@ def main():
                 #TODO
                 pass
 
-        command = ["git status","git add -A", "git status", "git commit -m \"Test Commit\"", "git push"]#"git commit -m " + commit_str + "\""]
-        check = ["not staged for commit","" ,"Changes to be committed:", "files changed", ""]
+        command = ["git status","git add -A", "git status", "git commit -m " + commit_str + "\"", "git push"]        
+        check = ["not staged for commit","" ,"Changes to be committed:", "files changed", "To https://github.com"]
         prompts = ["Checking if there is any thing to commit", "Added files to commmit", "Ready to commit","Committing", "Pushed to git"]
         print("Executing commands to push to git")
         x = 0
