@@ -48,4 +48,5 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 1688 | [Count Of Matches In Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/ "Count Of Matches In Tournament") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/BackTracking/CountMatches.java)|
 | 1688 | [Count Of Matches In Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/ "Count Of Matches In Tournament") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/BackTracking/CountMatches.java)|
+| 1688 | [Count Of Matches In Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/ "Count Of Matches In Tournament") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/BackTracking/CountMatches.java)|
 
