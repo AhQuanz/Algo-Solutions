@@ -7,13 +7,38 @@ def main():
         print("You have not enter enough arguments (category,id,title,diffcuitly,language,file name")
     else:
         output, titles = readFile()
+        multi_q = False
+        commit_str = "\"Completed "
         if (".txt" in arg_list[0]):
+            #TODO
+            multi_q = True
             pass
         else:
             insertLine(output,arg_list,titles)
-        write_to_file(output,titles)
-        error_code = subprocess.run(["echo","HELLO WORLD"])
+            arg_list = [arg_list]
 
+        write_to_file(output,titles)
+        for entry in arg_list:
+            if not multi_q:
+                commit_str += entry[2] + "- ID " + entry[1]
+            else:
+                #TODO
+                pass
+
+        command = ["git status","git add -A", "git status", "git commit -m " + commit_str + "\""]
+        check = ["not staged for commit","" ,"Changes to be committed:"]
+        prompts = ["Checking if there is any thing to commit", "Added files to commmit", "Ready to commit","Committing", "Pushed to git"]
+        print("Executing commands to push to git")
+        x = 0
+        while x < len(command):
+            error_code = subprocess.check_output(command[x],shell = True, text = True)
+            if check[x] not in error_code and x == 0:
+                x += 1
+            elif check[x] not in error_code:
+                break;
+            else:
+                print(prompts[x])
+            x += 1
         
 
 def readFile():
@@ -71,7 +96,7 @@ def insertLine(output, entry,titles):
 
 
 def write_to_file(output,titles):
-    readme = open("README1.md", 'w')
+    readme = open("README.md", 'w')
     for title in titles:
         for value in output[title]:
             print(value , file = readme)

@@ -1,7 +1,7 @@
 # My Algoithim Solutions
 This repo contains my solution to various alrgoithim problems (Kattis , leetCode and more)
+## LeetCode
 
-## LeetCode 
 ### Array
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
@@ -30,15 +30,21 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/ "Jewels and Stones")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/JewelsStones.java)|
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/ "Number of Good Pairs") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/GoodPairs.java)|
 
-### Sorting 
+### Sorting
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/ "Shuffle String") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Sort/ShuffleStr.java)|
 | 1122 | [Relative Sort Array#](https://leetcode.com/problems/relative-sort-array/ "Relative Sort Array#") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Sort/RelativeSort.java)|
 
-### Tree 
+### Tree
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 965  | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/ "Univalued Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/Univalue.java)|
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/ "Maximum Depth of Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/ShortestDIsToC.java)|
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/ "Find Words That Can Be Formed by Characters")| Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/WordsFromC.java)|
+
+### BackTracking
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 1688 | [Count Of Matches In Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/ "Count Of Matches In Tournament") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/BackTracking/CountMatches.java)|
+
