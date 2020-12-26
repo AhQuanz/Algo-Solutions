@@ -17,6 +17,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/ "Fibonacci Number")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/Fib.java)|
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/ "Find Words That Can Be Formed by Characters")| Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/WordsFromC.java)|
 | 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ "Check If Two String Arrays Are Equivalent") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CheckStrArr.java)|
+| 1588 | [Sum Of All Odd Length Subarrays#](https://leetcode.com/problems/sum-of-all-odd-length-subarrays#/ "Sum Of All Odd Length Subarrays#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/SubOddArrSum.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
