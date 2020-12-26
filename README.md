@@ -45,6 +45,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 965  | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/ "Univalued Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/Univalue.java)|
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/ "Maximum Depth of Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/MaxDepthOfBTree.java)|
+| 938  | [Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst/ "Range Sum Of Bst") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/RangeSum.java)|
 
 ### BackTracking
 | #  |  Title | Diffcuitly  |  Language  |
