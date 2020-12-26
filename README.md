@@ -25,6 +25,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/ "Goal Parser Interpretation") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/GoalParser.java)|
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/ "Count the Number of Consistent Strings") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/ConsistentStr.java)|
 | 929  | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/ "Unique Email Addresses")| Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/UniqueEAddr.java)|
+| 1221 | [Split A String In Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/ "Split A String In Balanced Strings") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/BalanceStrSplit.java)|
 
 ### HashTable
 | #  |  Title | Diffcuitly  |  Language  |
