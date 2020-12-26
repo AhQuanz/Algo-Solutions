@@ -57,3 +57,8 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 1656 | [Design An Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/ "Design An Ordered Stream") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Design/OrderedStream.java)|
 
+### Bitwise
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 1290 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "Convert Binary Number In A Linked List To Integer") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Bitwise/BinaryListToInt,java)|
+
