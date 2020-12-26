@@ -63,6 +63,7 @@ def get_g_link(output,entry,title):
     search = title.replace("### ", "")
     entry[2] = entry[2].replace("_"," ")
     g_link = output[title][-1].find("https://github.com")
+    #TODO update g_link_end to end at leetcode instead of diffcuilty so that we can change
     g_link_end = output[title][-1].find(search+"/")
     print(g_link_end)
     g_link = output[title][-1][g_link:g_link_end+len(search)] + "/" + entry[5]
