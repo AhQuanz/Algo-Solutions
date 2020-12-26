@@ -15,6 +15,8 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1619 | [Mean of Array After Removing Some Elements#](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/ "Mean of Array After Removing Some Elements#") | Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/MeanAftRemove.java)|
 | 821  | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/ "Shortest Distance to a Character")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/ShortestDisToC.java)|
 | 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/ "Fibonacci Number")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/Fib.java)|
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/ "Find Words That Can Be Formed by Characters")| Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/WordsFromC.java)|
+| 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ "Check If Two String Arrays Are Equivalent") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CheckStrArr.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
@@ -40,8 +42,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 965  | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/ "Univalued Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/Univalue.java)|
-| 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/ "Maximum Depth of Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/ShortestDIsToC.java)|
-| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/ "Find Words That Can Be Formed by Characters")| Easy| [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Tree/WordsFromC.java)|
+| 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/ "Maximum Depth of Binary Tree")| Easy | [java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/MaxDepthOfBTree.java)|
 
 ### BackTracking
 | #  |  Title | Diffcuitly  |  Language  |
