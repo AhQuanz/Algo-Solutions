@@ -1,6 +1,7 @@
 import sys
 import subprocess 
 
+#TODO - include if i want to push 
 def main():
     arg_list = sys.argv[1:]
     if (".txt" not in arg_list[0] and len(arg_list) < 5):
@@ -65,7 +66,6 @@ def get_g_link(output,entry,title):
     g_link = output[title][-1].find("https://github.com")
     #TODO update g_link_end to end at leetcode instead of diffcuilty so that we can change
     g_link_end = output[title][-1].find(search+"/")
-    print(g_link_end)
     g_link = output[title][-1][g_link:g_link_end+len(search)] + "/" + entry[5]
     return g_link
 
