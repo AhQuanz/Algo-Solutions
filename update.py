@@ -39,7 +39,6 @@ def main():
             else:
                 print(prompts[x])
             x += 1
-            print(error_code)
         
 
 def readFile():
