@@ -19,6 +19,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ "Check If Two String Arrays Are Equivalent") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CheckStrArr.java)|
 | 1588 | [Sum Of All Odd Length Subarrays#](https://leetcode.com/problems/sum-of-all-odd-length-subarrays#/ "Sum Of All Odd Length Subarrays#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/SubOddArrSum.java)|
 | 1534 | [Count Good Triplets#](https://leetcode.com/problems/count-good-triplets#/ "Count Good Triplets#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CountGdTri.java)|
+| 1295 | [Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ "Find Numbers With Even Number Of Digits") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/EvenNumDigits.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
