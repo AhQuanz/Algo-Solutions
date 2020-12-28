@@ -66,3 +66,8 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 1290 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "Convert Binary Number In A Linked List To Integer") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Bitwise/BinaryListToInt,java)|
 
+### Math
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/ "Minimum Time Visiting All Points") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinTimeVisitPts.java)|
+
