@@ -4,7 +4,7 @@ import subprocess
 #TODO - include if i want to push 
 def main():
     arg_list = sys.argv[1:]
-    if (".txt" not in arg_list[0] and len(arg_list) < 5):
+    if (".txt" not in arg_list[0] and len(arg_list) < 6):
         print("You have not enter enough arguments (category,id,title,diffcuitly,language,file name")
     else:
         output, titles = readFile()
@@ -18,14 +18,14 @@ def main():
             insertLine(output,arg_list,titles)
             arg_list = [arg_list]
 
-        write_to_file(output,titles)
+        #write_to_file(output,titles)
         for entry in arg_list:
             if not multi_q:
                 commit_str += entry[2] + "- ID " + entry[1]
             else:
                 #TODO
                 pass
-
+        
         command = ["git status","git add -A", "git status", "git commit -m " + commit_str + "\"", "git push"]        
         check = ["not staged for commit","" ,"Changes to be committed:", "files changed", "To https://github.com"]
         prompts = ["Checking if there is any thing to commit", "Added files to commmit", "Ready to commit","Committing", "Pushed to git"]
@@ -40,7 +40,6 @@ def main():
             else:
                 print(prompts[x])
             x += 1
-        
 
 def readFile():
     output = {}
@@ -86,7 +85,9 @@ def insertLine(output, entry,titles):
         insertHeader(output,title)
     
     entry[2] = entry[2].split(" ")
-    p_link = "https://leetcode.com/problems/" + "-".join(entry[2]) + "/"
+    domain = "-cn" if "~" in entry[2][-1] else ""
+    p_link = "https://leetcode"+ domain +".com/problems/" + "-".join(entry[2]) + "/"
+    print(p_link)
     entry[2] = " ".join([x.capitalize() for x in entry[2] ])
 
     f_col = "| {:4} |".format(entry[1])
