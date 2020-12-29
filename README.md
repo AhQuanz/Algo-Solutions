@@ -34,6 +34,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 709  | [To Lower Case](https://leetcode.com/problems/to-lower-case/ "To Lower Case") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/ToLowerCase.java)|
 | 1704 | [Determine If String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/ "Determine If String Halves Are Alike") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/AlikeHalfStr.java)|
 | 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/ "Unique Morse Code Words") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/UniqueMorseCode.java)|
+| 1119 | [Remove Vowels From A String~](https://leetcode.com/problems/remove-vowels-from-a-string~/ "Remove Vowels From A String~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/removeVowelsStr.java)|
 
 ### HashTable
 | #  |  Title | Diffcuitly  |  Language  |
