@@ -20,6 +20,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1588 | [Sum Of All Odd Length Subarrays#](https://leetcode.com/problems/sum-of-all-odd-length-subarrays#/ "Sum Of All Odd Length Subarrays#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/SubOddArrSum.java)|
 | 1534 | [Count Good Triplets#](https://leetcode.com/problems/count-good-triplets#/ "Count Good Triplets#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CountGdTri.java)|
 | 1295 | [Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ "Find Numbers With Even Number Of Digits") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/EvenNumDigits.java)|
+| 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ "Cells With Odd Values In A Matrix") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CountOddValueMatrix.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
