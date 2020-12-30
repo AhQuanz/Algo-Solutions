@@ -18,14 +18,13 @@ def main():
             insertLine(output,arg_list,titles)
             arg_list = [arg_list]
 
-        #write_to_file(output,titles)
+        write_to_file(output,titles)
         for entry in arg_list:
             if not multi_q:
                 commit_str += entry[2] + "- ID " + entry[1]
             else:
                 #TODO
                 pass
-        
         command = ["git status","git add -A", "git status", "git commit -m " + commit_str + "\"", "git push"]        
         check = ["not staged for commit","" ,"Changes to be committed:", "files changed", "To https://github.com"]
         prompts = ["Checking if there is any thing to commit", "Added files to commmit", "Ready to commit","Committing", "Pushed to git"]
@@ -86,7 +85,8 @@ def insertLine(output, entry,titles):
     
     entry[2] = entry[2].split(" ")
     domain = "-cn" if "~" in entry[2][-1] else ""
-    p_link = "https://leetcode"+ domain +".com/problems/" + "-".join(entry[2]) + "/"
+    p_link = "-".join([ x[:-1] if x[-1] == '~' else x for x in entry[2] ])
+    p_link = "https://leetcode"+ domain +".com/problems/" + p_link + "/"
     print(p_link)
     entry[2] = " ".join([x.capitalize() for x in entry[2] ])
 
