@@ -83,8 +83,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/ "Minimum Time Visiting All Points") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinTimeVisitPts.java)|
-| LCP-06 | [Na Ying Bi~+](https://leetcode-cn.com/problems/na-ying-bi~/ "Na Ying Bi~+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
-| LCP-06 | [Na Ying Bi+~](https://leetcode-cn.com/problems/na-ying-bi+/ "Na Ying Bi+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
+| LCP-06 | [Na Ying Bi+~](https://leetcode-cn.com/problems/na-ying-bi/ "Na Ying Bi+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
 
 ### LinkedList
 | #  |  Title | Diffcuitly  |  Language  |

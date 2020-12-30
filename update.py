@@ -90,8 +90,12 @@ def insertLine(output, entry,titles):
     
     entry[2] = entry[2].split(" ")
     domain = "-cn" if "~" in entry[2][-1] else ""
-    symbols = "~+"
-    p_link = "-".join([ x[:-1] if x[-1] in symbols else x for x in entry[2]])
+    symbols = ["~", "+"]
+    p_link = entry[2]
+    for symbol in symbols:
+        p_link = [x[:-1] if x[-1] in symbol else x for x in p_link]
+    
+    p_link = "-".join(p_link)
     p_link = "https://leetcode"+ domain +".com/problems/" + p_link + "/"
     entry[2] = " ".join([x.capitalize() for x in entry[2] ])
 
