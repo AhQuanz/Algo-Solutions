@@ -45,6 +45,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1119 | [Remove Vowels From A String~](https://leetcode-cn.com/problems/remove-vowels-from-a-string/ "Remove Vowels From A String~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/removeVowelsStr.java)|
 | 1021 | [Remove Outermost Parentheses#](https://leetcode.com/problems/remove-outermost-parentheses#/ "Remove Outermost Parentheses#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/RemoveOuterParentheses.java)|
 | 1165 | [Single Row Keyboard~](https://leetcode-cn.com/problems/single-row-keyboard/ "Single Row Keyboard~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/SingleRowKB.java)|
+| 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/ "Increasing Decreasing String") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/IncDecreaseStr.java)|
 
 ### HashTable
 | #  |  Title | Diffcuitly  |  Language  |
@@ -87,7 +88,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/ "Minimum Time Visiting All Points") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinTimeVisitPts.java)|
 | LCP-06 | [拿硬币+~](https://leetcode-cn.com/problems/na-ying-bi/ "拿硬币+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
-| LCP-17 | [Ngk0fy](https://leetcode.com/problems/nGK0Fy/ "Ngk0fy") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/calAB.java)|
+| LCP-17 | [ 速算机器人](https://leetcode.com/problems/nGK0Fy/ " 速算机器人") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/calAB.java)|
 
 ### LinkedList
 | #  |  Title | Diffcuitly  |  Language  |

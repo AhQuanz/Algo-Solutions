@@ -36,6 +36,7 @@ class CalAB {
                     y = 2 * y + x; 
                 }
             }
+            return x + y;
         */
     }
 }
