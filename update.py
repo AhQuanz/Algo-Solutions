@@ -4,8 +4,8 @@ import subprocess
 #TODO - include if i want to push 
 def main():
     arg_list = sys.argv[1:]
-    if (".txt" not in arg_list[0] and len(arg_list) < 6):
-        print("You have not enter enough arguments (category,id,title,diffcuitly,language,file name")
+    if (".txt" not in arg_list[0] and len(arg_list) < 7):
+        print("You have not enter enough arguments (category,id,title,diffcuitly,language,file name,T(push)")
     else:
         output, titles = readFile()
         multi_q = False
@@ -32,7 +32,10 @@ def main():
         x = 0
         while x < len(command):
             error_code = subprocess.check_output(command[x],shell = True, text = True)
-            if check[x] not in error_code and x == 0:
+            if not bool(entry[6]): 
+                print("Did not push")
+                break;
+            elif check[x] not in error_code and x == 0:
                 x += 1
             elif check[x] not in error_code:
                 break;

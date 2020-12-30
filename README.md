@@ -1,5 +1,10 @@
 # My Algoithim Solutions
 This repo contains my solution to various alrgoithim problems (Kattis , leetCode and more)
+## Symbols
+"#" - Important
+"~" - Requires leetcode premium (cn version)
+"+" - Too Simple
+"Any LCP code Question" - Exclusive for leetcode-cn
 ## LeetCode
 
 ### Array
@@ -21,7 +26,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1534 | [Count Good Triplets#](https://leetcode.com/problems/count-good-triplets#/ "Count Good Triplets#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CountGdTri.java)|
 | 1295 | [Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ "Find Numbers With Even Number Of Digits") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/EvenNumDigits.java)|
 | 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ "Cells With Odd Values In A Matrix") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CountOddValueMatrix.java)|
-| 1281 | [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ "Subtract The Product And Sum Of Digits Of An Integer") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/SubProSumDigits.java)|
+| 1281 | [Subtract The Product And Sum Of Digits Of An Integer+](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ "Subtract The Product And Sum Of Digits Of An Integer+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/SubProSumDigits.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
@@ -78,6 +83,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/ "Minimum Time Visiting All Points") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinTimeVisitPts.java)|
+| LCP-06 | [Na Ying Bi~+](https://leetcode-cn.com/problems/na-ying-bi~/ "Na Ying Bi~+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
 
 ### LinkedList
 | #  |  Title | Diffcuitly  |  Language  |
