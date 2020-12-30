@@ -43,6 +43,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/ "Jewels and Stones")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/JewelsStones.java)|
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/ "Number of Good Pairs") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/GoodPairs.java)|
+| 760  | [Find Anagram Mappings~](https://leetcode-cn.com/problems/find-anagram-mappings/ "Find Anagram Mappings~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/AnagramMapping.java)|
 
 ### Sorting
 | #  |  Title | Diffcuitly  |  Language  |
