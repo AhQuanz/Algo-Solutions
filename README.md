@@ -88,10 +88,15 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/ "Minimum Time Visiting All Points") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinTimeVisitPts.java)|
 | LCP-06 | [拿硬币+~](https://leetcode-cn.com/problems/na-ying-bi/ "拿硬币+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
-| LCP-17 | [ 速算机器人](https://leetcode.com/problems/nGK0Fy/ " 速算机器人") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/calAB.java)|
+| LCP-17 | [速算机器人~](https://leetcode-cn.com/problems/nGK0Fy/ " 速算机器人") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/calAB.java)|
 
 ### LinkedList
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 237  | [Delete Node In A Linked List+](https://leetcode.com/problems/delete-node-in-a-linked-list/ "Delete Node In A Linked List+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/LinkedList/ReplaceNode.java)|
+
+### DFS
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 339  | [Nested List Weight Sum~](https://leetcode-cn.com/problems/nested-list-weight-sum/ "Nested List Weight Sum~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/DFS/NestedListWeightSum.java)|
 
