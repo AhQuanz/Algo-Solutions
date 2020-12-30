@@ -28,6 +28,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ "Cells With Odd Values In A Matrix") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CountOddValueMatrix.java)|
 | 1281 | [Subtract The Product And Sum Of Digits Of An Integer+](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ "Subtract The Product And Sum Of Digits Of An Integer+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/SubProSumDigits.java)|
 | 1572 | [Matrix Diagonal Sum+](https://leetcode.com/problems/matrix-diagonal-sum/ "Matrix Diagonal Sum+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/diagonalSum.java)|
+| 1450 | [Number Of Students Doing Homework At A Given Time+](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/ "Number Of Students Doing Homework At A Given Time+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/numStdDoingWork.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
