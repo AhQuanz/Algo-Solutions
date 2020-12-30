@@ -40,6 +40,7 @@ def main():
                 print(prompts[x])
             x += 1
 
+
 def readFile():
     output = {}
     titles = ["header"]
@@ -85,9 +86,9 @@ def insertLine(output, entry,titles):
     
     entry[2] = entry[2].split(" ")
     domain = "-cn" if "~" in entry[2][-1] else ""
-    p_link = "-".join([ x[:-1] if x[-1] == '~' else x for x in entry[2] ])
+    symbols = "~+"
+    p_link = "-".join([ x[:-1] if x[-1] in symbols else x for x in entry[2]])
     p_link = "https://leetcode"+ domain +".com/problems/" + p_link + "/"
-    print(p_link)
     entry[2] = " ".join([x.capitalize() for x in entry[2] ])
 
     f_col = "| {:4} |".format(entry[1])
