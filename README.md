@@ -1,10 +1,10 @@
 # My Algoithim Solutions
 This repo contains my solution to various alrgoithim problems (Kattis , leetCode and more)
 ## Symbols
-"#" - Important
-"~" - Requires leetcode premium (cn version)
-"+" - Too Simple
-"Any LCP code Question" - Exclusive for leetcode-cn
+\# - Important
+\~ - Requires leetcode premium (cn version)
+\+ - Too Simple
+"Any LCP coded Question" - Exclusive for leetcode-cn
 ## LeetCode
 
 ### Array
@@ -78,6 +78,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1290 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "Convert Binary Number In A Linked List To Integer") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Bitwise/BinaryListToInt,java)|
+| 1342 | [Number-of Steps To Reduce A Number To Zero+](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "Number-of Steps To Reduce A Number To Zero+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Bitwise/numSteps.java)|
 
 ### Math
 | #  |  Title | Diffcuitly  |  Language  |
