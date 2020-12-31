@@ -103,3 +103,8 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 339  | [Nested List Weight Sum~](https://leetcode-cn.com/problems/nested-list-weight-sum/ "Nested List Weight Sum~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/DFS/NestedListWeightSum.java)|
 
+### Graphs
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 1436 | [Destination City#](https://leetcode.com/problems/destination-city#/ "Destination City#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Graphs/DesCity.java)|
+
