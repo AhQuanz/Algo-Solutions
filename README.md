@@ -84,6 +84,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | ------------ | ------------ | ------------ | ------------ |
 | 1290 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "Convert Binary Number In A Linked List To Integer") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Bitwise/BinaryListToInt,java)|
 | 1342 | [Number-of Steps To Reduce A Number To Zero+](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "Number-of Steps To Reduce A Number To Zero+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Bitwise/numSteps.java)|
+| 461  | [Hamming Distance+](https://leetcode.com/problems/hamming-distance/ "Hamming Distance+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Bitwise/HamDistance.java)|
 
 ### Math
 | #  |  Title | Diffcuitly  |  Language  |
