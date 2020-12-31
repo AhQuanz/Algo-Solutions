@@ -68,6 +68,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 938  | [Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst/ "Range Sum Of Bst") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/RangeSum.java)|
 | 1469 | [Find All The Lonely Nodes#~](https://leetcode-cn.com/problems/find-all-the-lonely-nodes#/ "Find All The Lonely Nodes#~") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/LonelyNodes.java)|
 | 617  | [Merge Two Binary Trees#](https://leetcode.com/problems/merge-two-binary-trees#/ "Merge Two Binary Trees#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/MergeTwoBTrees.java)|
+| 226  | [Invert Binary Tree#](https://leetcode.com/problems/invert-binary-tree#/ "Invert Binary Tree#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/InvertBTree.java)|
 
 ### BackTracking
 | #  |  Title | Diffcuitly  |  Language  |
