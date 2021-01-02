@@ -95,6 +95,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/ "Minimum Time Visiting All Points") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinTimeVisitPts.java)|
 | LCP-06 | [拿硬币+~](https://leetcode-cn.com/problems/na-ying-bi/ "拿硬币+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
 | LCP-17 | [速算机器人~](https://leetcode-cn.com/problems/nGK0Fy/ " 速算机器人") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/calAB.java)|
+| 1134 | [Armstrong Number+~](https://leetcode-cn.com/problems/armstrong-number/ "Armstrong Number+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/ArmStrongNum.java)|
 
 ### LinkedList
 | #  |  Title | Diffcuitly  |  Language  |
