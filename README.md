@@ -96,6 +96,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | LCP-06 | [拿硬币+~](https://leetcode-cn.com/problems/na-ying-bi/ "拿硬币+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
 | LCP-17 | [速算机器人~](https://leetcode-cn.com/problems/nGK0Fy/ " 速算机器人") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/calAB.java)|
 | 1134 | [Armstrong Number+~](https://leetcode-cn.com/problems/armstrong-number/ "Armstrong Number+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/ArmStrongNum.java)|
+| 1085 | [Sum Of Digits In The Minimum Number+~](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/ "Sum Of Digits In The Minimum Number+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinNumSumDigits.java)|
 
 ### LinkedList
 | #  |  Title | Diffcuitly  |  Language  |
