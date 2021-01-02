@@ -83,7 +83,11 @@ class IntersectTwoArr{
                     j++;
                 }
             }
-            return Arrays.copyOfRange(inter, 0, c);
+            int[] res = new int[c];
+            for(int x = 0; x < c ; x++) {
+                res[x] = inter[x];
+            }
+            return res;
         }
         */
    }

@@ -55,13 +55,16 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/ "Jewels and Stones")| Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/JewelsStones.java)|
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/ "Number of Good Pairs") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/GoodPairs.java)|
 | 760  | [Find Anagram Mappings~](https://leetcode-cn.com/problems/find-anagram-mappings/ "Find Anagram Mappings~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/AnagramMapping.java)|
-| 349  | [Intersection Of Two Arrays#~](https://leetcode-cn.com/problems/intersection-of-two-arrays#/ "Intersection Of Two Arrays#~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/IntersectTwoArr.java)|
+| 349  | [Intersection Of Two Arrays#](https://leetcode.com/problems/intersection-of-two-arrays#/ "Intersection Of Two Arrays#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/IntersectTwoArr.java)|
+| 1213 | [Intersection Of Three Sorted Arrays~](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays/ "Intersection Of Three Sorted Arrays~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/IntersectThreeArr.java)|
 
 ### Sorting
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/ "Shuffle String") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Sort/ShuffleStr.java)|
 | 1122 | [Relative Sort Array#](https://leetcode.com/problems/relative-sort-array/ "Relative Sort Array#") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Sort/RelativeSort.java)|
+| 349  | [Intersection Of Two Arrays#](https://leetcode.com/problems/intersection-of-two-arrays#/ "Intersection Of Two Arrays#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/IntersectTwoArr.java)|
+| 350  | [Intersection Of Two ArraysII#](https://leetcode.com/problems/intersection-of-two-arrays-ii/ "Intersection Of Two ArraysII#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/IntersectTwoArr.java)|
 
 ### Tree
 | #  |  Title | Diffcuitly  |  Language  |
