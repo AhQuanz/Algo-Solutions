@@ -30,6 +30,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1572 | [Matrix Diagonal Sum+](https://leetcode.com/problems/matrix-diagonal-sum/ "Matrix Diagonal Sum+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/diagonalSum.java)|
 | 1450 | [Number Of Students Doing Homework At A Given Time+](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/ "Number Of Students Doing Homework At A Given Time+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/numStdDoingWork.java)|
 | 1299 | [Replace Elements With Greatest Element On Right Side+](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/ "Replace Elements With Greatest Element On Right Side+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/GreatestElmOnRight.java)|
+| 1464 | [Maximum Product Of Two Elements In An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/ "Maximum Product Of Two Elements In An Array") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/MaxTwoProduct.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
