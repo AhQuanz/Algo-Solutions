@@ -49,6 +49,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1021 | [Remove Outermost Parentheses#](https://leetcode.com/problems/remove-outermost-parentheses#/ "Remove Outermost Parentheses#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/RemoveOuterParentheses.java)|
 | 1165 | [Single Row Keyboard~](https://leetcode-cn.com/problems/single-row-keyboard/ "Single Row Keyboard~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/SingleRowKB.java)|
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/ "Increasing Decreasing String") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/IncDecreaseStr.java)|
+| 1180 | [Count Substrings With Only One Distinct Letter~](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter/ "Count Substrings With Only One Distinct Letter~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/String/OneLetterSubStr.java)|
 
 ### HashTable
 | #  |  Title | Diffcuitly  |  Language  |
