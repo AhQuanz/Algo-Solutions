@@ -32,6 +32,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1299 | [Replace Elements With Greatest Element On Right Side+](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/ "Replace Elements With Greatest Element On Right Side+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/GreatestElmOnRight.java)|
 | 1464 | [Maximum Product Of Two Elements In An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/ "Maximum Product Of Two Elements In An Array") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/MaxTwoProduct.java)|
 | 1708 | [Largest Subarray Length K~](https://leetcode-cn.com/problems/largest-subarray-length-k/ "Largest Subarray Length K~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/LargestKsubArr.java)|
+| 1700 | [Number Of Students Unable To Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/ "Number Of Students Unable To Eat Lunch") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/NumStdCanEat.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
