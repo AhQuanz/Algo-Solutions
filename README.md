@@ -33,6 +33,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1464 | [Maximum Product Of Two Elements In An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/ "Maximum Product Of Two Elements In An Array") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/MaxTwoProduct.java)|
 | 1708 | [Largest Subarray Length K~](https://leetcode-cn.com/problems/largest-subarray-length-k/ "Largest Subarray Length K~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/LargestKsubArr.java)|
 | 1700 | [Number Of Students Unable To Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/ "Number Of Students Unable To Eat Lunch") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/NumStdCanEat.java)|
+| 1351 | [Count Negative Numbers In A Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ "Count Negative Numbers In A Sorted Matrix") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CountNegNum.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
