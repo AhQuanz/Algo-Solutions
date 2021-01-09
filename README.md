@@ -106,6 +106,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | LCP-17 | [速算机器人~](https://leetcode-cn.com/problems/nGK0Fy/ " 速算机器人") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/calAB.java)|
 | 1134 | [Armstrong Number+~](https://leetcode-cn.com/problems/armstrong-number/ "Armstrong Number+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/ArmStrongNum.java)|
 | 1085 | [Sum Of Digits In The Minimum Number+~](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/ "Sum Of Digits In The Minimum Number+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinNumSumDigits.java)|
+| 1323 | [Maximum 69 Number+](https://leetcode.com/problems/maximum-69-number/ "Maximum 69 Number+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/Math69Num.java)|
 
 ### LinkedList
 | #  |  Title | Diffcuitly  |  Language  |
