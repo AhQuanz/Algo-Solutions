@@ -115,6 +115,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 237  | [Delete Node In A Linked List+](https://leetcode.com/problems/delete-node-in-a-linked-list/ "Delete Node In A Linked List+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/LinkedList/ReplaceNode.java)|
+| 1474 | [Delete N Nodes After M Nodes Of A Linked List#~](https://leetcode-cn.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list#/ "Delete N Nodes After M Nodes Of A Linked List#~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/LinkedList/DelNodesAfterM.java)|
 
 ### DFS
 | #  |  Title | Diffcuitly  |  Language  |
