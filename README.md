@@ -81,6 +81,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 617  | [Merge Two Binary Trees#](https://leetcode.com/problems/merge-two-binary-trees#/ "Merge Two Binary Trees#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/MergeTwoBTrees.java)|
 | 226  | [Invert Binary Tree#](https://leetcode.com/problems/invert-binary-tree#/ "Invert Binary Tree#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/InvertBTree.java)|
 | 590  | [N Ary Tree Postorder Traversal#](https://leetcode.com/problems/n-ary-tree-postorder-traversal#/ "N Ary Tree Postorder Traversal#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/PostOrder.java)|
+| 700  | [Search In A Binary Search Tree+](https://leetcode.com/problems/search-in-a-binary-search-tree/ "Search In A Binary Search Tree+") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/BstSearch.java)|
 
 ### BackTracking
 | #  |  Title | Diffcuitly  |  Language  |
