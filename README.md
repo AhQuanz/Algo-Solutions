@@ -32,7 +32,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1299 | [Replace Elements With Greatest Element On Right Side+](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/ "Replace Elements With Greatest Element On Right Side+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/GreatestElmOnRight.java)|
 | 1464 | [Maximum Product Of Two Elements In An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/ "Maximum Product Of Two Elements In An Array") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/MaxTwoProduct.java)|
 | 1708 | [Largest Subarray Length K~](https://leetcode-cn.com/problems/largest-subarray-length-k/ "Largest Subarray Length K~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/LargestKsubArr.java)|
-| 1700 | [Number Of Students Unable To Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/ "Number Of Students Unable To Eat Lunch") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/NumStdCanEat.java)|
+| 1700 | [Number Of Students Unable To Eat Lunch#](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/ "Number Of Students Unable To Eat Lunch#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/NumStdCanEat.java)|
 | 1351 | [Count Negative Numbers In A Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ "Count Negative Numbers In A Sorted Matrix") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/CountNegNum.java)|
 | 832  | [Flipping An Image](https://leetcode.com/problems/flipping-an-image/ "Flipping An Image") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/FlipImage.java)|
 
@@ -80,6 +80,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1469 | [Find All The Lonely Nodes#~](https://leetcode-cn.com/problems/find-all-the-lonely-nodes#/ "Find All The Lonely Nodes#~") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/LonelyNodes.java)|
 | 617  | [Merge Two Binary Trees#](https://leetcode.com/problems/merge-two-binary-trees#/ "Merge Two Binary Trees#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/MergeTwoBTrees.java)|
 | 226  | [Invert Binary Tree#](https://leetcode.com/problems/invert-binary-tree#/ "Invert Binary Tree#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/InvertBTree.java)|
+| 590  | [N Ary Tree Postorder Traversal#](https://leetcode.com/problems/n-ary-tree-postorder-traversal#/ "N Ary Tree Postorder Traversal#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/PostOrder.java)|
 
 ### BackTracking
 | #  |  Title | Diffcuitly  |  Language  |
