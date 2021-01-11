@@ -1,10 +1,10 @@
 # My Algoithim Solutions
 This repo contains my solution to various alrgoithim problems (Kattis , leetCode and more)
 ## Symbols
-\# - Important
-\~ - Requires leetcode premium (cn version)
-\+ - Too Simple
-"Any LCP coded Question" - Exclusive for leetcode-cn
+- \# (Important)
+- \~ (Requires leetcode premium cn version)
+- \+ (Too Simple)
+- "Any LCP coded Question" (Exclusive for leetcode-cn)
 ## LeetCode
 
 ### Array
