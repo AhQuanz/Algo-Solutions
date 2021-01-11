@@ -5,6 +5,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 - \~ (Requires leetcode premium cn version)
 - \+ (Too Simple)
 - "Any LCP coded Question" (Exclusive for leetcode-cn)
+
 ## LeetCode
 
 ### Array
