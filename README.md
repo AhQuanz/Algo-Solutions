@@ -1,12 +1,10 @@
 # My Algoithim Solutions
-
 This repo contains my solution to various alrgoithim problems (Kattis , leetCode and more)
 ## Symbols
 - \# (Important)
 - \~ (Requires leetcode premium cn version)
 - \+ (Too Simple)
 - "Any LCP coded Question" (Exclusive for leetcode-cn)
-
 ## LeetCode
 
 ### Array
@@ -84,6 +82,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 226  | [Invert Binary Tree#](https://leetcode.com/problems/invert-binary-tree#/ "Invert Binary Tree#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/InvertBTree.java)|
 | 590  | [N Ary Tree Postorder Traversal#](https://leetcode.com/problems/n-ary-tree-postorder-traversal#/ "N Ary Tree Postorder Traversal#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/PostOrder.java)|
 | 700  | [Search In A Binary Search Tree+](https://leetcode.com/problems/search-in-a-binary-search-tree/ "Search In A Binary Search Tree+") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/BstSearch.java)|
+| 108  | [Convert Sorted Array To Binary Search Tree#](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree#/ "Convert Sorted Array To Binary Search Tree#") | Easy | [Java](https://github.com/AhQuanz/Algo-Solutions/blob/main/LeetCode/Easy/Tree/SortedArrToTree.java)|
 
 ### BackTracking
 | #  |  Title | Diffcuitly  |  Language  |
