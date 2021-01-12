@@ -111,6 +111,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1085 | [Sum Of Digits In The Minimum Number+~](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/ "Sum Of Digits In The Minimum Number+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinNumSumDigits.java)|
 | 1323 | [Maximum 69 Number+](https://leetcode.com/problems/maximum-69-number/ "Maximum 69 Number+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/Math69Num.java)|
 | 728  | [Self Dividing Numbers+](https://leetcode.com/problems/self-dividing-numbers/ "Self Dividing Numbers+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/selfDivNums.java)|
+| 1716 | [Calculate Money In Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/ "Calculate Money In Leetcode Bank") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/TotalMoney.java)|
 
 ### LinkedList
 | #  |  Title | Diffcuitly  |  Language  |
