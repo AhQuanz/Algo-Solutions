@@ -130,3 +130,8 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 1436 | [Destination City#](https://leetcode.com/problems/destination-city#/ "Destination City#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Graphs/DesCity.java)|
 | 657  | [Robot Return To Origin+](https://leetcode.com/problems/robot-return-to-origin/ "Robot Return To Origin+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Graphs/ReturnOrigin.java)|
 
+### Greedy
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/Maximum-Ice-Cream-Bars/ "Maximum Ice Cream Bars") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Greedy/MaxIceCream.java)|
+
