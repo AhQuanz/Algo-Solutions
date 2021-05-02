@@ -133,5 +133,5 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 ### Greedy
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
-| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/Maximum-Ice-Cream-Bars/ "Maximum Ice Cream Bars") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Greedy/MaxIceCream.java)|
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/Maximum-Ice-Cream-Bars/ "Maximum Ice Cream Bars") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Greedy/MaxIceCream.java)|
 
