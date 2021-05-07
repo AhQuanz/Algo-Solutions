@@ -107,7 +107,7 @@ def insertHeader(output,title):
 def insertLine(output, info , titles):
     title = "### " + info["category"]
     if title in output.keys():
-        g_link = get_g_link(output,entry,title)
+        g_link = get_g_link(output,info,title)
     else:
         output[title] = []
         g_link = get_g_link(output, info ,titles[-1])
