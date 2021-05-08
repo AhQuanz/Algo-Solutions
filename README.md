@@ -64,6 +64,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 760  | [Find Anagram Mappings~](https://leetcode-cn.com/problems/find-anagram-mappings/ "Find Anagram Mappings~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/AnagramMapping.java)|
 | 349  | [Intersection Of Two Arrays#](https://leetcode.com/problems/intersection-of-two-arrays#/ "Intersection Of Two Arrays#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/IntersectTwoArr.java)|
 | 1213 | [Intersection Of Three Sorted Arrays~](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays/ "Intersection Of Three Sorted Arrays~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/IntersectThreeArr.java)|
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/ "Contains Duplicate") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/HashTable/COntainsDup.java)|
 
 ### Sorting
 | #  |  Title | Diffcuitly  |  Language  |
