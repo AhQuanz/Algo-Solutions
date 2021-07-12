@@ -37,6 +37,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 832  | [Flipping An Image](https://leetcode.com/problems/flipping-an-image/ "Flipping An Image") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/FlipImage.java)|
 | 26   | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/Remove-duplicates-from-sorted-array/ "Remove Duplicates From Sorted Array") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/RemoveDups.java)|
 | 122  | [Best Time To Buy And Sell Stock Ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ "Best Time To Buy And Sell Stock Ii") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/BestTimeToBuyAndSellTwo.java)|
+| 66   | [Plus One](https://leetcode.com/problems/plus-one/ "Plus One") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/PlusOne.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |

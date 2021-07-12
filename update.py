@@ -34,7 +34,7 @@ def main():
         print("Executing commands to push to git")
         x = 0
         while x < len(command):
-            if command[x] == "git push" and info["push"]:  
+            if command[x] == "git push" and not info["push"]:  
                 print("Did not push")
                 break;
             else:
