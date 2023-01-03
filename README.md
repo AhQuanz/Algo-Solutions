@@ -39,7 +39,6 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 122  | [Best Time To Buy And Sell Stock Ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ "Best Time To Buy And Sell Stock Ii") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/BestTimeToBuyAndSellTwo.java)|
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/ "Plus One") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/PlusOne.java)|
 | 242  | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/ "Valid Anagram") | easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/easy/Array/ValidAnagram.java)|
-| 242  | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/ "Valid Anagram") | easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/easy/Array/ValidAnagram.java)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
@@ -111,4 +110,33 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | #  |  Title | Diffcuitly  |  Language  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/ "Minimum Time Visiting All Points") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinTimeVisitPts.java)|
+| LCP-06 | [拿硬币+~](https://leetcode-cn.com/problems/na-ying-bi/ "拿硬币+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/numTake.java)|
+| LCP-17 | [速算机器人~](https://leetcode-cn.com/problems/nGK0Fy/ " 速算机器人") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/calAB.java)|
+| 1134 | [Armstrong Number+~](https://leetcode-cn.com/problems/armstrong-number/ "Armstrong Number+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/ArmStrongNum.java)|
+| 1085 | [Sum Of Digits In The Minimum Number+~](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/ "Sum Of Digits In The Minimum Number+~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/MinNumSumDigits.java)|
+| 1323 | [Maximum 69 Number+](https://leetcode.com/problems/maximum-69-number/ "Maximum 69 Number+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/Math69Num.java)|
+| 728  | [Self Dividing Numbers+](https://leetcode.com/problems/self-dividing-numbers/ "Self Dividing Numbers+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/selfDivNums.java)|
+| 1716 | [Calculate Money In Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/ "Calculate Money In Leetcode Bank") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Math/TotalMoney.java)|
+
+### LinkedList
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 237  | [Delete Node In A Linked List+](https://leetcode.com/problems/delete-node-in-a-linked-list/ "Delete Node In A Linked List+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/LinkedList/ReplaceNode.java)|
+| 1474 | [Delete N Nodes After M Nodes Of A Linked List#~](https://leetcode-cn.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list#/ "Delete N Nodes After M Nodes Of A Linked List#~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/LinkedList/DelNodesAfterM.java)|
+
+### DFS
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 339  | [Nested List Weight Sum~](https://leetcode-cn.com/problems/nested-list-weight-sum/ "Nested List Weight Sum~") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/DFS/NestedListWeightSum.java)|
+
+### Graphs
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 1436 | [Destination City#](https://leetcode.com/problems/destination-city#/ "Destination City#") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Graphs/DesCity.java)|
+| 657  | [Robot Return To Origin+](https://leetcode.com/problems/robot-return-to-origin/ "Robot Return To Origin+") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Graphs/ReturnOrigin.java)|
+
+### Greedy
+| #  |  Title | Diffcuitly  |  Language  |
+| ------------ | ------------ | ------------ | ------------ |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/Maximum-Ice-Cream-Bars/ "Maximum Ice Cream Bars") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Greedy/MaxIceCream.java)|
 
