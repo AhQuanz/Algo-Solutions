@@ -63,7 +63,7 @@ def readFile():
     titles = ["header"]
     title = "header"
     output[title] = []
-    readme = open("README.md", 'r')
+    readme = open("README.md", 'r', encoding="utf-8")
 
     for line in readme:
         line = line.strip()
@@ -133,7 +133,7 @@ def insertLine(output, info , titles):
     output[title].append(f_col+s_col+t_col+fourth_col)
 
 def write_to_file(output,titles):
-    readme = open("README.md", 'w')
+    readme = open("README.md", 'w', encoding="utf-8")
     for title in titles:
         for value in output[title]:
             print(value , file = readme)
