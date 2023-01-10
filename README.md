@@ -38,9 +38,10 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 26   | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/Remove-duplicates-from-sorted-array/ "Remove Duplicates From Sorted Array") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/RemoveDups.java)|
 | 122  | [Best Time To Buy And Sell Stock Ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ "Best Time To Buy And Sell Stock Ii") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/BestTimeToBuyAndSellTwo.java)|
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/ "Plus One") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/PlusOne.java)|
-| 242  | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/ "Valid Anagram") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/ValidAnagram.java)|
+| 242  | [Valid Anagram#](https://leetcode.com/problems/Valid-Anagram/ "Valid Anagram") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/ValidAnagram.java)|
 | 1    | [Two Sum](https://leetcode.com/problems/Two-Sum/ "Two Sum") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/TwoSum.java)|
-| 49   | [Group Anagrams #](https://leetcode.com/problems/Group-Anagrams-#/ "Group Anagrams #") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/GroupAnagrams)|
+| 49   | [Group Anagrams#](https://leetcode.com/problems/Group-Anagrams#/ "Group Anagrams #") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/GroupAnagrams)|
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/ "Top K Frequent Elements") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/TopKElements)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
