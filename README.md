@@ -40,9 +40,10 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/ "Plus One") | Easy | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/PlusOne.java)|
 | 242  | [Valid Anagram#](https://leetcode.com/problems/Valid-Anagram/ "Valid Anagram") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/ValidAnagram.java)|
 | 1    | [Two Sum](https://leetcode.com/problems/Two-Sum/ "Two Sum") | Easy | [java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Easy/Array/TwoSum.java)|
-| 49   | [Group Anagrams#](https://leetcode.com/problems/Group-Anagrams#/ "Group Anagrams #") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/GroupAnagrams)|
-| 347  | [Top K Frequent Elements#](https://leetcode.com/problems/top-k-frequent-elements/ "Top K Frequent Elements") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/TopKElements)|
-| 238  | [Product Of Array Except Self#](https://leetcode.com/problems/product-of-array-except-self#/ "Product Of Array Except Self#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/ProductOfArrayExceptSelf)|
+| 49   | [Group Anagrams#](https://leetcode.com/problems/Group-Anagrams#/ "Group Anagrams #") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/GroupAnagrams.java)|
+| 347  | [Top K Frequent Elements#](https://leetcode.com/problems/top-k-frequent-elements/ "Top K Frequent Elements") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/TopKElements.java)|
+| 238  | [Product Of Array Except Self#](https://leetcode.com/problems/product-of-array-except-self#/ "Product Of Array Except Self#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/ProductOfArrayExceptSelf.java)|
+| 53   | [Maximum Subarray#](https://leetcode.com/problems/maximum-subarray#/ "Maximum Subarray#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/MaximumSubarray)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
