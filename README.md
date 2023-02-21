@@ -44,6 +44,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 347  | [Top K Frequent Elements#](https://leetcode.com/problems/top-k-frequent-elements/ "Top K Frequent Elements") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/TopKElements.java)|
 | 238  | [Product Of Array Except Self#](https://leetcode.com/problems/product-of-array-except-self#/ "Product Of Array Except Self#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/ProductOfArrayExceptSelf.java)|
 | 53   | [Maximum Subarray#](https://leetcode.com/problems/maximum-subarray#/ "Maximum Subarray#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/MaximumSubarray)|
+| 540  | [Single Element In A Sorted Array#](https://leetcode.com/problems/single-element-in-a-sorted-array#/ "Single Element In A Sorted Array#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/SingleElementInSortedArray)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
