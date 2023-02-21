@@ -45,6 +45,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 238  | [Product Of Array Except Self#](https://leetcode.com/problems/product-of-array-except-self#/ "Product Of Array Except Self#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/ProductOfArrayExceptSelf.java)|
 | 53   | [Maximum Subarray#](https://leetcode.com/problems/maximum-subarray#/ "Maximum Subarray#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/MaximumSubarray)|
 | 540  | [Single Element In A Sorted Array#](https://leetcode.com/problems/single-element-in-a-sorted-array#/ "Single Element In A Sorted Array#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/SingleElementInSortedArray)|
+| 128  | [Longest Consecutive Sequence#](https://leetcode.com/problems/Longest-Consecutive-Sequence#/ "Longest Consecutive Sequence#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/LongestConsecutiveSequence)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |
