@@ -46,6 +46,7 @@ This repo contains my solution to various alrgoithim problems (Kattis , leetCode
 | 53   | [Maximum Subarray#](https://leetcode.com/problems/maximum-subarray#/ "Maximum Subarray#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/MaximumSubarray)|
 | 540  | [Single Element In A Sorted Array#](https://leetcode.com/problems/single-element-in-a-sorted-array#/ "Single Element In A Sorted Array#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/SingleElementInSortedArray)|
 | 128  | [Longest Consecutive Sequence#](https://leetcode.com/problems/Longest-Consecutive-Sequence#/ "Longest Consecutive Sequence#") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/LongestConsecutiveSequence)|
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ "Capacity To Ship Packages Within D Days") | Medium | [Java](https://github.com/AhQuanz/Algo-Questions/blob/main/LeetCode/Medium/Array/capToShipPackagesWithinDdays)|
 
 ### String
 | #  |  Title | Diffcuitly  |  Language  |

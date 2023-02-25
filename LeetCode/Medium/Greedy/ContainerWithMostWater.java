@@ -13,6 +13,9 @@ Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,
 Input: height = [1,1]
 Output: 1
 
+Input: height = [2,3,4,5,18,17,6]
+Output = 17
+
 */
 class Solution {
     public int maxArea(int[] height) {
